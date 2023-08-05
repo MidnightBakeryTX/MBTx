@@ -1,0 +1,140 @@
+.main {
+    margin-bottom: 10%;
+    width: 75vw;
+    height: 55vh;
+    flex: 1;
+    overflow-y: auto;
+    background-color: #272322;
+    box-shadow: 2px 2px 6px 4px rgba(0, 0, 0, 0.5);
+}
+
+.contactHead {
+    color: #BE9E7C;
+    text-align: center;
+    text-shadow: 2px 4px 6px #000;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 1.25vw;
+    font-family: 'Rochester', cursive;
+    font-size: 200%;
+    margin-top: 3%;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: .4vw;
+    font-family: 'Pompiere', cursive;
+}
+
+.contact h3,
+.orderSection h4 {
+    letter-spacing: .5vw;
+    font-size: 150%;
+}
+
+.contactInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.phone,
+.location,
+.email {
+    text-align: center;
+    width: 50%;
+    font-size: 105%;
+}
+
+.phone p,
+.location p,
+.email p {
+    margin-top: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.orderSection {
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Pompiere', cursive;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.input,
+.message {
+    margin-bottom: 3%;
+    width: 40vw;
+    color: #E0E0E0;
+    background-color: #403c3B;
+    border: none;
+    padding: 0 2%;
+    font-size: 75%;
+    font-family: 'Pompiere', cursive;
+}
+
+.input {
+    height: 5vh;
+}
+
+.message {
+    height: 15vh;
+    margin-bottom: 1%;
+    padding-top: 2%;
+}
+
+.submit {
+    margin-bottom: 1%;
+    padding: 1vw 2vw;
+    font-size: 50%;
+    letter-spacing: .3vh;
+    color: #000;
+    background: #BE9E7C;
+    border-radius: 3%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Pompiere', cursive;
+    font-size: 90%;
+    margin-bottom: 5%;
+}
+
+.notification {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: -15vw 25%;
+    text-align: center;
+    width: 50%;
+    height: 5vw;
+    position: relative;
+    z-index: 99999;
+    backdrop-filter: blur(1vw);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-size: 150%;
+}
+
+@media screen and (max-width: 768px) {
+    .contactInfo {
+        display: flex;
+        flex-direction: column;
+        font-size: 50%;
+    }
+
+    .input,
+    .message {
+        width: 50vw;
+    }
+
+    .notification {
+        margin-top: -25vw;
+        font-size: 75%;
+        height: 10vw;
+    }
+}
