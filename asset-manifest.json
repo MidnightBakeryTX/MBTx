@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb5f83fc.css",
-    "main.js": "/static/js/main.c11e4a25.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Strawberry Cupcakes.jpg": "/static/media/Strawberry Cupcakes.904c9582d7c36f43cb28.jpg",
-    "static/media/Yeehaw cake.jpg": "/static/media/Yeehaw cake.433c3ad78ec3ec19cd5d.jpg",
-    "static/media/Cherry Cupcakes.jpg": "/static/media/Cherry Cupcakes.3bbb4fb9ed32be16c6ee.jpg",
-    "static/media/fern-botanical-wallpaper-traditional-peel-and-stick-3372-2334-571_1800x1800.webp": "/static/media/fern-botanical-wallpaper-traditional-peel-and-stick-3372-2334-571_1800x1800.784722da95711cf3bf56.webp",
-    "static/media/Chocolate Cherry.jpg": "/static/media/Chocolate Cherry.322ec3e974d207edc8a1.jpg",
-    "static/media/Sara Baldock.jpg": "/static/media/Sara Baldock.f31076bec58778ea79ef.jpg",
-    "static/media/Midnight Bakery Logo (1).png": "/static/media/Midnight Bakery Logo (1).cc6493c54ef867c1fb1f.png",
-    "static/media/Sara Sig.png": "/static/media/Sara Sig.a5d64db7a192d0c85325.png",
-    "static/media/Smore-Cupcake.jpeg": "/static/media/Smore-Cupcake.7cf631c1b42059878db3.jpeg",
-    "index.html": "/index.html",
-    "main.eb5f83fc.css.map": "/static/css/main.eb5f83fc.css.map",
-    "main.c11e4a25.js.map": "/static/js/main.c11e4a25.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/MBTx/static/css/main.0b22eab3.css",
+    "main.js": "/MBTx/static/js/main.33f4ae59.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MBTx/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Strawberry Cupcakes.jpg": "/MBTx/static/media/Strawberry Cupcakes.904c9582d7c36f43cb28.jpg",
+    "static/media/Yeehaw cake.jpg": "/MBTx/static/media/Yeehaw cake.433c3ad78ec3ec19cd5d.jpg",
+    "static/media/Cherry Cupcakes.jpg": "/MBTx/static/media/Cherry Cupcakes.3bbb4fb9ed32be16c6ee.jpg",
+    "static/media/fern-botanical-wallpaper-traditional-peel-and-stick-3372-2334-571_1800x1800.webp": "/MBTx/static/media/fern-botanical-wallpaper-traditional-peel-and-stick-3372-2334-571_1800x1800.784722da95711cf3bf56.webp",
+    "static/media/Chocolate Cherry.jpg": "/MBTx/static/media/Chocolate Cherry.322ec3e974d207edc8a1.jpg",
+    "static/media/Sara Baldock.jpg": "/MBTx/static/media/Sara Baldock.f31076bec58778ea79ef.jpg",
+    "static/media/Midnight Bakery Logo (1).png": "/MBTx/static/media/Midnight Bakery Logo (1).cc6493c54ef867c1fb1f.png",
+    "static/media/Sara Sig.png": "/MBTx/static/media/Sara Sig.a5d64db7a192d0c85325.png",
+    "static/media/Smore-Cupcake.jpeg": "/MBTx/static/media/Smore-Cupcake.7cf631c1b42059878db3.jpeg",
+    "index.html": "/MBTx/index.html",
+    "main.0b22eab3.css.map": "/MBTx/static/css/main.0b22eab3.css.map",
+    "main.33f4ae59.js.map": "/MBTx/static/js/main.33f4ae59.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MBTx/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb5f83fc.css",
-    "static/js/main.c11e4a25.js"
+    "static/css/main.0b22eab3.css",
+    "static/js/main.33f4ae59.js"
   ]
 }
