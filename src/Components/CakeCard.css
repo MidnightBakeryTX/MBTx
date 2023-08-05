@@ -1,0 +1,45 @@
+.carousel.carousel-slider .control-arrow {
+    height: 50vh;
+    margin: 0 12.5%;
+}
+
+.carousel .slide img {
+    width: 75%;
+}
+
+.carousel img {
+    height: 50vh;
+    object-fit: cover;
+}
+
+.carousel p {
+    margin: 2% 0 2vw 2%;
+    text-align: left;
+    letter-spacing: .2vw;
+    font-family: 'Pompiere', cursive;
+}
+
+.cake1,
+.cake2,
+.cake3,
+.cake4 {
+    margin-bottom: 5%;
+}
+
+.carousel .control-dots {
+    margin-bottom: 0;
+}
+
+.carousel .control-dots .dot {
+    height: .75vh;
+    width: .75vh;
+}
+
+@media screen and (max-width: 768px) {
+    .carousel .slide img {
+        width: 100%;
+    }
+    .carousel.carousel-slider .control-arrow {
+        margin: 0;
+    }
+}
